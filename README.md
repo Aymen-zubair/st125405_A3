@@ -36,15 +36,6 @@ Below are the training and validation loss curves for each attention mechanism. 
 
 ![Training and Validation Loss](training_loss.png)
 
----
-
-## Attention Maps
-
-The attention map visualizes how the model attends to different parts of the input sentence during translation. The attention mechanism helps in focusing on the most relevant words in the source sentence while generating the translation.
-
-![Attention Map](attention_map.png)
-
----
 
 ## Results Analysis
 
